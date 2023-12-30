@@ -3,7 +3,7 @@
 > This repository contains several TD in Python
 
 * **00-Base** : Programme qui créer 4 immeubles avec des tailles et des couleurs aleatoires.
-* **01-Recursivite** : A watch class and a family class which are editable.
+* **01-Recursivite** : Un algo qui dessine un flocon de Von Koch en fonction du nombre d'iteration qu'on lui demande.
 * **02-Exercices** : A 3x3 ascii tic-tac-toe game.
 * **03-Structure** : A program that asks you to fill in data on ski slopes to return the total length, the % of slopes open and the kilometric cost.
 * **04-Algo** : Calculating the sum and product of two numbers.
