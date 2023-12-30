@@ -2,7 +2,7 @@
 
 > This repository contains several TD in Python
 
-* **00-Base** : Algorithm which creates a random combination of 3 numbers and returns how many tries it found the solution.
+* **00-Base** : Programme qui créer 4 immeubles avec des tailles et des couleurs aleatoires.
 * **01-Base** : A watch class and a family class which are editable.
 * **02-Base** : A 3x3 ascii tic-tac-toe game.
 * **03-Base** : A program that asks you to fill in data on ski slopes to return the total length, the % of slopes open and the kilometric cost.
