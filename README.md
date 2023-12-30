@@ -4,8 +4,8 @@
 
 * **00-Base** : Programme qui créer 4 immeubles avec des tailles et des couleurs aleatoires.
 * **01-Recursivite** : Un algo qui dessine un flocon de Von Koch en fonction du nombre d'iteration qu'on lui demande.
-* **02-Exercices** : A 3x3 ascii tic-tac-toe game.
-* **03-Structure** : A program that asks you to fill in data on ski slopes to return the total length, the % of slopes open and the kilometric cost.
+* **02-Classes** : 5 mini projets avec des classes en Python et un gros projet d'un train ou chacun de ces vagons est une classe.
+* **03-Structure** : Des arbres binaires, des Piles et Files ainsi qu'une introduction aux dictionnaires.
 * **04-Algo** : Calculating the sum and product of two numbers.
 * **05-List** : Calculating the results of complex numbers present in a file then sorting in ascending order.
 * **06-Parcours-Sequentiel** : Application of the Syracuse theoreme/sequence to a number.
