@@ -6,10 +6,9 @@
 * **01-Recursivite** : Un algo qui dessine un flocon de Von Koch en fonction du nombre d'iteration qu'on lui demande.
 * **02-Classes** : 5 mini projets avec des classes en Python et un gros projet d'un train ou chacun de ces vagons est une classe.
 * **03-Structure** : Des arbres binaires, des Piles et Files ainsi qu'une introduction aux dictionnaires.
-* **04-Algo** : Calculating the sum and product of two numbers.
-* **05-List** : Calculating the results of complex numbers present in a file then sorting in ascending order.
-* **06-Parcours-Sequentiel** : Application of the Syracuse theoreme/sequence to a number.
-* **07-Tri** : Class that normalizes 3D vectors.
+* **04-Algo** : Création de l'algorithme de recherche naïve de Horspool.
+* **05-Parcours-Sequentiel** : 3 programme de parcours de recherche dans une liste de plus en plus performant.
+* **06-Tri** : Comparaison de tri par insertion et par selection.
 
 ## Starting ##
 
