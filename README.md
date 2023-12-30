@@ -2,13 +2,13 @@
 
 > This repository contains several TD in Python
 
-* **00-Base** : Programme qui créer 4 immeubles avec des tailles et des couleurs aleatoires.
-* **01-Recursivite** : Un algo qui dessine un flocon de Von Koch en fonction du nombre d'iteration qu'on lui demande.
-* **02-Classes** : 5 mini projets avec des classes en Python et un gros projet d'un train ou chacun de ces vagons est une classe.
-* **03-Structure** : Des arbres binaires, des Piles et Files ainsi qu'une introduction aux dictionnaires.
-* **04-Algo** : Création de l'algorithme de recherche naïve de Horspool.
-* **05-Parcours-Sequentiel** : 3 programme de parcours de recherche dans une liste de plus en plus performant.
-* **06-Tri** : Comparaison de tri par insertion et par selection.
+* **00-Base** : Program that creates 4 buildings with random sizes and colors.
+* **01-Recursivite** : An algorithm that draws a Von Koch snowflake depending on the number of iterations requested.
+* **02-Classes** : 5 mini projects with classes in Python and a big project of a train where each of these wagons is a class.
+* **03-Structure** : Binary trees, Stacks and Files as well as an introduction to dictionaries.
+* **04-Algo** : Creation of Horspool's naive search algorithm.
+* **05-Parcours-Sequentiel** : 3 search path program in a list, they are more and more efficient.
+* **06-Tri** : Comparison of insertion and selection sort.
 
 ## Starting ##
 
